@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+APDM_Project_Summary.md
+APDM_Detailed_Plan.md
 
 # Expo
 .expo/
